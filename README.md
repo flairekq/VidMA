@@ -1,5 +1,5 @@
 # VidMA
-Vid - Video, M - Mining, A - Analysis
+Vid - Video, M - Mining, A - Analysis<br>
 A social media analytics project 
 
 ## Background & Motivation
