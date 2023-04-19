@@ -1,0 +1,9 @@
+beautifulsoup4
+google-api-python-client
+fasttext
+nltk
+fuzzywuzzy
+pandas
+numpy
+vaderSentiment
+youtube-transcript-api
