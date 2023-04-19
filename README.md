@@ -28,7 +28,7 @@ In particular, we are targeting brands that sells makeup products. For our proto
 - Firebase realtime database for storing of data
 
 ## Website
-VidMA is hosted on https://vidma.onrender.com/ (P.S. may not be available)
+VidMA is hosted on https://vidma.onrender.com/ (P.S. as we are using the free plan for hosting on Render, it takes awhile to load when the website is in inactive state. We might take down the hosting after a period of time so we included screenshots of our website below to showcase it.)
 ### Products Review
 
 
