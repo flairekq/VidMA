@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ensure sensitive data doesn't end up viewable on GitHub
+config.py
+__pycache__
+.ipynb_checkpoints

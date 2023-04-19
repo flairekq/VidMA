@@ -1,0 +1,138 @@
+{
+    "Face": {
+        "Contour": [
+            "/categories/makeup/face/contour?view=120"
+        ],
+        "Face Primer": [
+            "/categories/makeup/face/face-primer?view=120",
+            "/categories/makeup/face/face-primer?view=120&page=2"
+        ],
+        "Highlighter & Illuminator": [
+            "/categories/makeup/face/highlighter-and-illuminator?view=120",
+            "/categories/makeup/face/highlighter-and-illuminator?view=120&page=2"
+        ],
+        "Face Palettes & Sets": [
+            "/categories/makeup/face/face-palettes-and-sets?view=120",
+            "/categories/makeup/face/face-palettes-and-sets?view=120&page=2"
+        ],
+        "Foundation": [
+            "/categories/makeup/face/foundation?view=120",
+            "/categories/makeup/face/foundation?view=120&page=2"
+        ],
+        "Tinted Moisturiser": [
+            "/categories/makeup/face/tinted-moisturiser?view=120"
+        ],
+        "BB & CC Cream": [
+            "/categories/makeup/face/bb-and-cc-cream?view=120"
+        ],
+        "Powder": [
+            "/categories/makeup/face/powder?view=120",
+            "/categories/makeup/face/powder?view=120&page=2"
+        ],
+        "Concealer & Corrector": [
+            "/categories/makeup/face/concealer-and-corrector?view=120"
+        ],
+        "Blush": [
+            "/categories/makeup/face/blush?view=120",
+            "/categories/makeup/face/blush?view=120&page=2"
+        ],
+        "Bronzer": [
+            "/categories/makeup/face/bronzer?view=120"
+        ],
+        "Setting & Finishing Spray": [
+            "/categories/makeup/face/setting-and-finishing-spray?view=120"
+        ]
+    },
+    "Eyes": {
+        "Eyeliner": [
+            "/categories/makeup/eyes/eyeliner?view=120",
+            "/categories/makeup/eyes/eyeliner?view=120&page=2"
+        ],
+        "Eye Palettes & Sets": [
+            "/categories/makeup/eyes/eye-palettes-and-sets?view=120",
+            "/categories/makeup/eyes/eye-palettes-and-sets?view=120&page=2"
+        ],
+        "Eyeshadow": [
+            "/categories/makeup/eyes/eyeshadow?view=120",
+            "/categories/makeup/eyes/eyeshadow?view=120&page=2",
+            "/categories/makeup/eyes/eyeshadow?view=120&page=3"
+        ],
+        "Eyebrows": [
+            "/categories/makeup/eyes/eyebrows?view=120",
+            "/categories/makeup/eyes/eyebrows?view=120&page=2"
+        ],
+        "Mascara": [
+            "/categories/makeup/eyes/mascara?view=120",
+            "/categories/makeup/eyes/mascara?view=120&page=2"
+        ],
+        "False Eyelashes": [
+            "/categories/makeup/eyes/false-eyelashes?view=120"
+        ],
+        "Eye Primer": [
+            "/categories/makeup/eyes/eye-primer?view=120"
+        ],
+        "Under Eye Concealer": [
+            "/categories/makeup/eyes/under-eye-concealer?view=120"
+        ]
+    },
+    "Lips": {
+        "Lip Palettes & Sets": [
+            "/categories/makeup/lips/lip-palettes-and-sets?view=120"
+        ],
+        "Lipstick": [
+            "/categories/makeup/lips/lipstick?view=120",
+            "/categories/makeup/lips/lipstick?view=120&page=2",
+            "/categories/makeup/lips/lipstick?view=120&page=3"
+        ],
+        "Lip Stain & Tint": [
+            "/categories/makeup/lips/lip-stain-and-tint?view=120"
+        ],
+        "Lip Gloss": [
+            "/categories/makeup/lips/lip-gloss?view=120"
+        ],
+        "Lip Liner": [
+            "/categories/makeup/lips/lip-liner?view=120"
+        ],
+        "Lip Balm": [
+            "/categories/makeup/lips/lip-balm?view=120",
+            "/categories/makeup/lips/lip-balm?view=120&page=2"
+        ],
+        "Lip Plumper": [
+            "/categories/makeup/lips/lip-plumper?view=120"
+        ],
+        "Lip Primer": [
+            "/categories/makeup/lips/lip-primer?view=120"
+        ]
+    },
+    "Nails": {
+        "Nail Polish": [
+            "/categories/makeup/nails/nail-polish?view=120"
+        ],
+        "Base & Top Coat": [
+            "/categories/makeup/nails/base-and-top-coat?view=120"
+        ],
+        "Nail Art": [
+            "/categories/makeup/nails/nail-art?view=120"
+        ],
+        "Artificial Nails": [
+            "/categories/makeup/nails/artificial-nails?view=120"
+        ],
+        "Nail Treatments": [
+            "/categories/makeup/nails/nail-treatments?view=120"
+        ],
+        "Nail Polish Remover": [
+            "/categories/makeup/nails/nail-polish-remover?view=120"
+        ],
+        "Nail Sets": [
+            "/categories/makeup/nails/nail-sets?view=120"
+        ]
+    },
+    "Makeup Remover": {
+        "Eyes & Lips Makeup Remover": [
+            "/categories/makeup/makeup-remover/eyes-and-lips?view=120"
+        ],
+        "Face Makeup Remover": [
+            "/categories/makeup/makeup-remover/face?view=120"
+        ]
+    }
+}
